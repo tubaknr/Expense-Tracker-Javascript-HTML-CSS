@@ -1,0 +1,87 @@
+table{
+    font-size: 20px;
+    font-family: Garamond serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+td, th{
+    text-align: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr:nth-child(even){
+    background-color: #dddddd;
+}
+
+#submit{
+    background-color: lightgreen;
+    border-radius: 5px;
+    font-family: Garamond serif;
+}
+
+#clear_all{
+    background-color: lightsalmon;
+    border-radius: 5px;
+    font-family: Garamond serif;
+
+}
+
+body{
+    text-align:center;
+}
+
+#name{
+    width:40%;
+    text-align: left;
+    font-family: Garamond serif;
+}
+ 
+ 
+#date{
+    text-align: left;
+    bottom: 2px;
+    font-family: Garamond serif;
+}
+#amount{
+    text-align: left;
+    bottom: 2px;
+    font-family: Garamond serif;
+}
+#add{
+    font-family: Garamond serif;
+    font-size: 20px;
+}
+
+#nameTitle{
+    font-family: Garamond serif;
+    font-weight:bold
+}
+#dateTitle{
+    font-family: Garamond serif;
+    font-weight:bold
+}
+#amountTitle{
+    font-family: Garamond serif;
+    font-weight:bold
+}
+.button{
+    width:100px;
+    height:27px;
+}
+
+#records{
+    font-size: 20px;
+    font-family: Garamond serif;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: underline;     
+}
+
+#title{
+    font-size: 30px;
+    font-family: Garamond serif;
+    margin-left: auto;
+    margin-right: auto;
+}
